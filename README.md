@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O D . U . F . W . alert é um bot para Discord que monitora mensagens em tempo real em busca de palavras proibidas. Ao detectar uma palavra indesejada, o bot envia notificações instantâneas para um canal do Telegram, permitindo que administradores e moderadores mantenham o controle sobre o conteúdo. Fácil de configurar e personalizar.
+O D . U . F . W . alert Discord User Forbidden Word alert é um bot para Discord que monitora mensagens em tempo real em busca de palavras proibidas. Ao detectar uma palavra indesejada, o bot envia notificações instantâneas para um canal do Telegram, permitindo que administradores e moderadores mantenham o controle sobre o conteúdo. Fácil de configurar e personalizar.
 
 ## Pré-requisitos
 
