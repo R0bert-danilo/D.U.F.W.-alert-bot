@@ -15,11 +15,11 @@ Antes de rodar o projeto, você precisa ter os seguintes itens instalados:
 
 1. **Clone o repositório:**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone https://github.com/R0bert-danilo/D.U.F.W.-alert-bot.git
+   cd D.U.F.W.-alert-bot
 2. **Instalação de dependências:**
    ```bash
-   pip install -r requirements.txt
+   pip install -r requeriments.txt
 3. **Configure as variáveis de ambiente dentro do arquivo:**
 TELEGRAM_BOT_TOKEN: Token do seu bot do Telegram.
 TELEGRAM_CHAT_ID: ID do chat ou grupo no Telegram.
@@ -42,7 +42,7 @@ Esse projeto ainda não está 100% concluído. O grande ponto negativo dele é q
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/robertdanilom)
 ## Linguagem de Programação
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-##[D.U.F.W. alert bot.py](D.U.F.W.%20alert%20bot.py) Sistemas Operacionais
+##[D.U.F.W. alert bot.py](D.U.F.W.%20alert%20bot.py)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
