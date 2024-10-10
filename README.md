@@ -43,7 +43,7 @@ Esse projeto ainda não está 100% concluído. O grande ponto negativo dele é q
 ## Linguagem de Programação
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-##Sistemas compatíveis 
+## Sistemas compatíveis 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
